@@ -1,15 +1,14 @@
 # Anders Lundsgård - Profile
 
+<img src="AndersLundsgard-2015-538x538.jpg" style="float: right; width: 200px;  padding: 20px">
+
 ## Summary
 
-Experienced Cloud Solution Architect with 10+ years of passion for implementing DevOps practices at Scania. He has made the journey from Monolithic applications to Microservices, On-Premise hosting to
-Public Cloud and from 3 production deployments per year to 30+ per day.  
+Experienced Cloud Solution Architect with 10+ years of passion for implementing DevOps practices at Scania. He has made the journey from Monolithic applications to Microservices, On-Premise hosting to Public Cloud and from 3 production deployments per year to 30+ per day.  
 
-With a combination of deep dive technical skills and the ability to drive and follow strategic decisions, he has become an internal consultant for developers, operations and upper management at Scania.  
+With a combination of deep dive technical skills and the ability to drive and follow strategic decisions, he has become an internal consultant for developers, operations and upper management at Scania. Within Scania’s Cloud journey, he onboard new teams to AWS, drives Well-Architected Workshops, and develop security guardrails for Scania’s AWS and Azure Cloud foundation.  
 
-Within Scania’s Cloud journey, he onboard new teams to AWS, drives Well-Architected Workshops, and develop security guardrails for Scania’s AWS and Azure Cloud foundation.  
-
-Anders is an international speaker that enjoy to share lessons from Scania’s improvement work related to Architecture, DevOps and Cloud.  
+He is an international speaker that enjoy to share successes and failures related to Architecture, DevOps and Cloud.  
 
 He is the founder and drives https://devops.vision
 
