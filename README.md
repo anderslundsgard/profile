@@ -1,6 +1,6 @@
 # Anders Lundsgård - Profile
 
-<img src="AndersLundsgard-2015-538x538.jpg" style="float: right; width: 200px;  padding: 20px">
+<img src="AndersLundsgard-2015-211x250.jpg" style="float: right; width: 200px;  padding: 20px">
 
 ## Summary
 
