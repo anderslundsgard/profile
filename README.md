@@ -14,6 +14,10 @@ He is an international speaker that enjoy to share successes and failures relate
 
 He is the founder and drives https://devops.vision
 
+### Short version
+
+*I am a software craftsman and leader with a passion for Cloud and DevOps. With Continuous Integration and Continuous Delivery, I help companies to produce high-quality code in very short iterations. Defining and implementing DevOps practices along with Cloud computing is my primary mission.*
+
 ## Personal Information
 
 A father of two and a husband of one. Living with my family in Nykvarn. Having the golf clubs and the black belt in taekwondo on the shelf, they will surely come in handy sometime in the future. Besides being with my family I like running, formula 1 and melodifestivalen.
