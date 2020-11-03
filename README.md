@@ -22,7 +22,7 @@ A father of two and a husband of one. Living with my family in Nykvarn. Having t
 
 ### Cloud Solutions Architect
 **Period**: 2018.12 -> *current*  
-**Department**: Cloud Center of Excellence  
+**Department**: Scania Cloud Center of Excellence  
 
 He is a member of the Cloud Security team at Scania Cloud Adoption (CoE). Managing 500+ Cloud accounts and supporting 100+ developer teams with their greenfield and migration challenges to AWS and Azure public Clouds.  
 
@@ -37,7 +37,7 @@ With his experience from previous missions as developer and software architect, 
 
 He and his team were pioneers at Scania to bring the first large application into public Cloud (Azure) in 2015. With very high demands of availability and an increasing volume of connected vehicles, he was one of the drivers for the Cloud first decision at Scania in 2016. He presented Scania’s Cloud and DevOps journey at AWS Summit in 2017.  
 
-Together with three awesome colleagues he won the Scania Innovation Challenge in 2017.   
+Together with three awesome colleagues he won the Scania Innovation Challenge 2017.   
 
 
 ### Solution Architect
@@ -51,5 +51,14 @@ Within 5 years, Scania Connected Services managed to improve from 3 production d
 
 ### Developer & Release Engineer
 **Period**: 2008.05 -> 2010.11  
-**Department**: Scania Connected Services    
-*to come...*
+**Department**: Scania Connected Services  
+
+Started as a .NET developer he also took the responsibility for release management of the Scania Fleet Management system. In the very first project he became the driver of automating manual activities in the release cycle of the product. By the end of 2010 he was granted a spot in the group of software architects. The work within automation has marked him during all his years at Scania.
+
+
+### Developer & Instructor
+**Period**: 2004.08 -> 2008.04
+**Department**: Ceco Interactive Design / NFI Competence
+
+In his first job after degree he started as a C#/C++ developer at Ceco Interactive Design. A software company for building industry.  
+At NFI Competence, as a consultant he held 1-4 day courses in various programming languages, web development and MS Office programs like Outlook and Exchange. He was also responsible for the in-house hosting of infrastructure at Ceco and NFI. 
