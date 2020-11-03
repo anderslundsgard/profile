@@ -1,6 +1,6 @@
 # Anders Lundsgård
 
-<img src="AndersLundsgard-2015-211x250.jpg" style="float: right; width: 200px;  padding: 20px">
+<img src="anderslundsgard.jpg" style="float: right; width: 200px;  padding: 20px">
 
 ## Summary
 
