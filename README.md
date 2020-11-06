@@ -70,10 +70,10 @@ At NFI Competence, as a consultant he held 1-4 day courses in various programmin
 
 ## Skill Highlights
 
-| :hearts:             | :spades:   |   |   |   |
-|----------------------|------------|---|---|---|
-| Team Player          | DevOps     |   |   |   |
-| Decision maker       | Cloud      |   |   |   |
-| Speaker              | CI/CD      |   |   |   |
-| Communication skills | Automation |   |   |   |
+| :hearts:             | :spades:   |
+|----------------------|------------|
+| Team Player          | DevOps     |
+| Decision maker       | Cloud      |
+| Speaker              | CI/CD      |
+| Communication skills | Automation |
 
