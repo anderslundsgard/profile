@@ -1,6 +1,4 @@
-<div class="mermaid">
-    graph TD
-    A[Client] --> B[Load Balancer]
-    B --> C[Server01]
-    B --> D[Server02]
-</div>
+```mermaid
+graph LR
+    KTH-exam-2004 --> Developer-&-Instructor
+```
