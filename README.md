@@ -77,3 +77,11 @@ At NFI Competence, as a consultant he held 1-4 day courses in various programmin
 | Speaker              | CI/CD      |
 | Communication skills | Automation |
 
+
+## Anders's Philosophy
+
+When he leaves a mission he has: 
+
+ - Transfered knowledge to the team that will continue to support the solution
+ - Not left any undocumented manual configurations behind. Always strive for Automation and Infrastructure as Code 
+
