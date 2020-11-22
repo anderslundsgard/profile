@@ -1,5 +1,5 @@
 ```mermaid
-graph LR
+graph TB
     A(KTH Exam)-- 2004 -->B(Developer & Instructor)
     B-- 2008 -->C(Developer & Release Engineer)
     C-- 2010 -->D(Solution Architect)
