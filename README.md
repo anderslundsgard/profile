@@ -1,6 +1,6 @@
 # Anders Lundsgård
 
-<img src="anderslundsgard.jpg" style="float: right; width: 200px;  padding: 20px">
+<img src="anderslundsgard.jpg" style="float: right; width: 150px;  padding: 20px">
 
 ## Summary
 
@@ -34,6 +34,11 @@ The mission is to enable teams stay continuous compliant to security policies (D
 
 With his experience from previous missions as developer and software architect, he frequently advocates DevOps practices around the organization.
 
+#### Key activities
+
+> :dart: **Well Architected Workshops**  
+> :dart: **Continuous Security Compliance**  
+> :dart: **AWS Foundation**  
 
 ### Cloud and Delivery Engineer
 **Period**: 2015.07 &rightarrow; 2018.11  
@@ -43,6 +48,11 @@ He and his team were pioneers at Scania to bring the first large application int
 
 Together with three awesome colleagues he won the Scania Innovation Challenge 2017.   
 
+#### Key activities
+
+> :dart: **CI/CD**  
+> :dart: **Cloud Adoption**  
+> :dart: **DevOps**  
 
 ### Solution Architect
 **Period**: 2010.12 &rightarrow; 2015.06  
@@ -52,6 +62,11 @@ Early 2010 he implemented Continuous Integration practices among 20+ developer t
 
 Within 5 years, Scania Connected Services managed to improve from 3 production deploys per year to 30+ per day.
 
+#### Key activities
+
+> :dart: **CI/CD**  
+> :dart: **Microservices**  
+> :dart: **Infrastructure automation**  
 
 ### Developer & Release Engineer
 **Period**: 2008.05 &rightarrow; 2010.11  
@@ -59,7 +74,12 @@ Within 5 years, Scania Connected Services managed to improve from 3 production d
 
 Started as a .NET developer he also took the responsibility for release management of the Scania Fleet Management system. In the very first project he became the driver of automating manual activities in the release cycle of the product. By the end of 2010 he was granted a spot in the group of software architects. The work within automation has marked him during all his years at Scania.
 
+#### Key activities
 
+> :dart: **Software Developer**  
+> :dart: **Release responsible**  
+> :dart: **Automation**  
+ 
 ### Developer & Instructor
 **Period**: 2004.08 &rightarrow; 2008.04
 **Department**: Ceco Interactive Design / NFI Competence
@@ -67,6 +87,11 @@ Started as a .NET developer he also took the responsibility for release manageme
 In his first job after degree he started as a C#/C++ developer at Ceco Interactive Design. A software company for building industry.  
 At NFI Competence, as a consultant he held 1-4 day courses in various programming languages, web development and MS Office programs like Outlook and Exchange. He was also responsible for the in-house hosting of infrastructure at Ceco and NFI. 
 
+#### Key activities
+
+> :dart: **Programmer**  
+> :dart: **Programming Instructor**  
+> :dart: **IT Infrastructure Management**  
 
 ## Skill Highlights
 
