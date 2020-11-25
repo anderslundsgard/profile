@@ -81,7 +81,7 @@ Started as a .NET developer he also took the responsibility for release manageme
 > :dart: **Automation**  
  
 ### Developer & Instructor
-**Period**: 2004.08 &rightarrow; 2008.04
+**Period**: 2004.08 &rightarrow; 2008.04  
 **Department**: Ceco Interactive Design / NFI Competence
 
 In his first job after degree he started as a C#/C++ developer at Ceco Interactive Design. A software company for building industry.  
