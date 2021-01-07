@@ -1,3 +1,5 @@
+Never consult me to take care of your water pipelines! But I hopefully can assist in pipelining your code from VCS to Prod.  
+
 I am a software craftsman, a team player, and a cartoon presenter with a passion for code of all kinds. 
 
 After a dozen of years being an engineer at Scania I not only have produced a ton of code, but also found the joy to automate the deployment, and make the code run reliably on its production infrastructure. To many this might not sound that fancy but I really don't like to wake up in the middle of the night to deal with production issues. During these years I've become a huge fan of DevOps practices and the way public cloud has transformed the way how we design and operate applications.  
